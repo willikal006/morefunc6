@@ -1,6 +1,6 @@
 """
 POC_U1B2 - Unit 01 - Functions - Block 02 - Functions Deep Dive (Guided Notes)
-Name: ______________________
+Name: Kaliel Williamson 
 
 STUDENTS:
 - Fill in the blanks by writing answers in COMMENTS.
@@ -176,3 +176,4 @@ print("\n=== TODO TESTS (Expect failures until you finish TODOs) ===")
 # assert format_full_name("James", "Kirk", "Tiberius") == "James Tiberius Kirk"
 
 print("When all asserts pass, you’re officially dangerous. ✅")
+
